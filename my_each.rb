@@ -7,6 +7,7 @@ def my_each(array)
   i += 1 
 
 end
-  my_each(i){"i |i| got #{i}"}
 end
+  my_each(i){"i |i| got #{i}"}
+
 
